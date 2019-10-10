@@ -1,0 +1,92 @@
+[
+  {
+    "name": "binarySearch",
+    "filePath": "src/BinarySearchAlgorithm.js",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": "@param [number] data -  The array of elements from which one element is selected to search."
+      },
+      {
+        "lineNumber": 5,
+        "line": " @param {number} value - The value that is to be searched from the data array."
+      },
+      {
+        "lineNumber": 6,
+        "line": "*/"
+      },
+      {
+        "lineNumber": 7,
+        "line": ""
+      },
+      {
+        "lineNumber": 8,
+        "line": "  function binarySearch (data, value) {"
+      }
+    ],
+    "codeParams": [
+      "data",
+      "value"
+    ],
+    "docParams": [
+      "number",
+      "value"
+    ]
+  },
+  {
+    "name": "quickSort",
+    "filePath": "src/QuickSort.js",
+    "lines": [
+      {
+        "lineNumber": 0,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 1,
+        "line": " * @link www.github.com"
+      },
+      {
+        "lineNumber": 2,
+        "line": " * @param { values- Array of Numbers} - Is the Array of Elements that are to be sorted."
+      },
+      {
+        "lineNumber": 3,
+        "line": " * @param {left - Integer} - Is the variable for the Left Pointer."
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @param {right - Integer} - Is the Variable for the Right Pointer."
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @returns {*} - It Returns the sorted values."
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @see - github.com"
+      },
+      {
+        "lineNumber": 7,
+        "line": " */"
+      },
+      {
+        "lineNumber": 8,
+        "line": "function quickSort(values, left, right) {"
+      }
+    ],
+    "codeParams": [
+      "values",
+      "left",
+      "right"
+    ],
+    "docParams": [
+      "-",
+      "-",
+      "-"
+    ]
+  }
+]
